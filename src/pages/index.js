@@ -10,7 +10,7 @@ import { Link } from 'gatsby';
 
 const sections = [
   { id: 'one', bg: require('../assets/images/img13.jpg') },
-  { id: 'two', bg: require('../assets/images/pic02.jpg') },
+  { id: 'two', bg: require('../assets/images/img15.jpg') },
   { id: 'three', bg: require('../assets/images/pic03.jpg') },
 ];
 const IndexPage = () => (
