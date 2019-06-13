@@ -20,7 +20,7 @@ const IndexPage = () => (
     <section id="one" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={'/.netlify/large-media/img13.jpg'} alt="" />
+          <img src={'/images/img13.jpg'} alt="" />
         </span>
         <div className="content">
           <header className="major">
