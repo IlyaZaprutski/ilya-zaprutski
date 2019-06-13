@@ -20,7 +20,7 @@ const IndexPage = () => (
     <section id="one" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={sections[0].bg} alt="" />
+          <img src={'../assets/images/img13.jpg'} alt="" />
         </span>
         <div className="content">
           <header className="major">
