@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Highlights', // <title>
+  siteTitle: 'Ilya Zaprutski', // <title>
   manifestName: 'Highlights',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,29 +8,29 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-highlights/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav',
-  subHeading: 'Web Developer',
+  heading: 'Ilya Zaprutski',
+  subHeading: 'Developer',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/IlyaZaprutski',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/IlyaZaprutski',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://www.facebook.com/ilya.zaprutski',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:ilya.zaprutski@gmail.com',
     },
   ],
 };
